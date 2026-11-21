@@ -1,2 +1,2 @@
 def handler(event, context):
-    return "Hola"
+    return "Esta es la función Lambda de prueba. ¡Hola, mundo!"
